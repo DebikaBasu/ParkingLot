@@ -7,7 +7,7 @@ A brief description of what this project does and who it's for
 
 This project demonstrates how to design a **Parking Lot System** using **Low Level Design (LLD)** concepts and **Object-Oriented Programming** in Java.
 
-The goal of this repository is to help developers understand how to structure a real-world system using:
+The goal of this repository is to help to understand how to structure a real-world system using:
 
 * Object-Oriented Design
 * SOLID Principles
@@ -306,4 +306,4 @@ This system can be extended to support:
 
 # Author
 
-This project is created to help developers understand **Low Level System Design concepts** with a real-world example.
+This project is created to help to understand **Low Level System Design concepts** with a real-world example.
