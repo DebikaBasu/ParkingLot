@@ -217,13 +217,13 @@ Responsibilities:
 ### Entry Flow
 
 Vehicle enters
-↓
+    ↓
 ParkingSpotManagerFactory
-↓
+    ↓
 Find parking spot
-↓
+    ↓
 Park vehicle
-↓
+    ↓
 Generate ticket
 
 ---
